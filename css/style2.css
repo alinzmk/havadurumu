@@ -1,0 +1,117 @@
+*{margin: 0; padding: 0; box-sizing: border-box; text-align: center;}
+body{
+  color: white;
+  text-align: center;
+  background-image: url("images/bg4.jpg");
+  background-color: brown;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+h1{
+  font-weight: bolder;
+}
+.app{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(10, 0, 0, 0.75);
+  height: 100vh;
+}
+.sehir{
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  font-weight: lighter;
+  padding-top: 40px;
+}
+.title{
+  padding-top: 50px;
+  font-family: Poppins;
+}
+.title input{
+  font-family: Raleway;
+  font-weight: bold;
+  text-align: center;
+  background: transparent;
+  width: 100%;
+  border: 0;
+  outline: 0;
+  border-bottom: 2px solid white;
+  font-size: 20px;
+  color: white;
+
+}
+.temp{
+  font-family: "Barlow";
+  font-size: 3.5rem;
+  font-weight: bold;
+  padding-top: 7px;
+}
+.desc{
+  text-transform: capitalize;
+  font-size: 1.2rem;
+  font-weight: lighter;
+  padding-top: 10px;
+}
+.minmax{
+  font-size: 1.5rem;
+  font-weight: lighter;
+  padding-top: 10px;
+}
+.date{
+  font-size: 1rem;
+  font-weight: lighter;
+  padding-top: 10px;
+}
+.inp{}
+
+footer{
+  padding-bottom: 10px;
+  font-weight: lighter;
+}
+
+
+@media screen and (min-width:700px) {
+  body{
+    background-image: url("images/bg3.jpg");
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*ank
